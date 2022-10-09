@@ -1,6 +1,6 @@
 ### Hi everyone, my name is Irina 👋 and I ❤️ Data Science
 
-- 🔭 **NLP DS** at Sber Reliability 
+- 🔭 **NLP DS** at Intelligent Document Processing (IDP)  
 - 🌱 **PhD Student** at MIPT
 
 **Field of interests**: Natural Language Processing (NLP), Computer Vision (CV), Biometry
