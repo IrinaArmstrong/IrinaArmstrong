@@ -1,9 +1,9 @@
 ### Hi everyone, my name is Irina 👋 and I ❤️ Data Science
 
-- 🔭 **NLP DS** at Intelligent Document Processing (IDP)  
+- 🔭 **NLP DS** at Artificial Intelligence Research Institute (AIRI)  
 - 🌱 **PhD Student** at MIPT
 
-**Field of interests**: Natural Language Processing (NLP), Computer Vision (CV), Biometry
+**Field of interests**: Natural Language Processing (NLP), Computer Vision (CV), Multi-modality, Biometry
 
 ### Skills 🛠️
 - **Languages**:        Python
@@ -13,7 +13,8 @@
 ### Work experience 👔
 | Job Position          | Company        | Field                           | Work Period                |
 | --------------------- | -------------- | ------------------------------- | -------------------------- |
-| **MiddleNLP Data Scientist**     | ** Intelligent Document Processing (IDP)**    | **Few-shot Multi-modal classification, NER**      | **01.04.2021 — until now** |
+| **DL Researcher**     | **Artificial Intelligence Research Institute (AIRI), FusionBrain**    | **LLM Pretraining, Multi-modality reaserch**      | **01.02.2023 — until now** |
+| MiddleNLP Data Scientist     | SberDevices, Intelligent Document Processing (IDP)    | LLM Pretraining, DocVQA, Few-shot Multi-modal classification, NER      | 01.04.2021 — 27.01.2023 |
 | Middle NLP Data Scientist  | Sber Reliability | Meta-learning in NLP, TS forecasting        | 01.04.2021 — 28.02.2022    |
 | AI Research Engineer    | MIPT  | Research in Meta-learning DL in Biometrics   | 01.06.2020 — 01.01.2021 |
 | BI Engineer Analyst  | VTB     | Analytic, DWH design | 01.06.2019 — 01.11.2019    |
